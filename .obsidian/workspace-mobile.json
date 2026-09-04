@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "8a660b4316e5d9ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b57339cbbda29f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ed212723b177b4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "61035930e5340475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflections/Journals/Daily/journal_daily_260901.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "journal_daily_260901"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d38c3290a45bdc0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f574d09dcb9d8397",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5e2425e712729894",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Home",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f8168cd727f0fc51",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b86f3133d8a39d58",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "da86efdedbc620fc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "618dce940d44a92d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9b5ae5f99aa288e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Operations/Tasks/Others/quick.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "54297d7ed3e627ab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Museum/configs/home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fcae2b5e8ea2ba31",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Operations/Tasks/Others/quick.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "c64df88015f56603",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Operations/Tasks/Others/quick.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "repeat-plugin:Repeat due notes": false
+    }
+  },
+  "active": "23ed212723b177b4",
+  "lastOpenFiles": [
+    "Operations/Tasks/Others/today.md",
+    "Operations/Tasks/Operational/opr_competition_gpfuturemakers.md",
+    "Reflections/Journals/Daily/journal_daily_260902.md",
+    "Reflections/Journals/Daily/journal_daily_260901.md",
+    "Museum/configs/home.md",
+    "Reflections/Wikis/wiki_16 bit sprite art style graphics.md",
+    "Operations/Tasks/Others/timeline.md",
+    "Operations/Tasks/Operational/opr_diums_matholympiad26.md",
+    "Operations/Tasks/Operational/opr_build_home.md",
+    "Reflections/Wikis/wiki_concept of database management system in computer system.md",
+    "Reflections/Wikis/wiki_concept of database management system .md",
+    "Operations/Tasks/Others/quick.md",
+    "Museum/configs/templates/template_journal_daily.md",
+    "Operations/Tasks/Operational/opr_refine_diums.md",
+    "Operations/Tasks/Operational/opr_refine_diu_ieeesight.md",
+    "Museum/configs/templates/template_journal_monthly.md",
+    "Operations/Tasks/Operational/opr_startup_nuvic.md",
+    "Reflections/Journals/Daily/journal_daily_260421.md",
+    "Reflections/Journals/Daily/journal_daily_260303.md",
+    "Assets/Bases/wiki.base",
+    "Operations/Tasks/Operational/opr_startup_noor global.md",
+    "Reflections/Journals/Daily/journal_daily_260224.md"
+  ]
+}

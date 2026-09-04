@@ -1,0 +1,7 @@
+{
+  "basicIgnores": [
+    "Assets/Operational/",
+    "Assets/Repositories/"
+  ],
+  "lookAtTree": true
+}

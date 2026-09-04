@@ -1,0 +1,20 @@
+views:
+  - type: cards
+    name: All Operationals
+    filters:
+      and:
+        - file.inFolder("Operations/Tasks/Operational")
+    groupBy:
+      property: region
+      direction: ASC
+    order:
+      - opr_id
+      - region
+    sort:
+      - property: due_date
+        direction: ASC
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.inFolder("Operations/Tasks")

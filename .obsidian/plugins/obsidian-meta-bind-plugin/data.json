@@ -1,0 +1,303 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 0,
+    "name": "Sunday",
+    "shortName": "Su"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Quick Tasks",
+      "icon": "goal",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "quicktask",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "open",
+          "link": "Operations/Tasks/Others/quick.md",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "label": "Create new Wiki",
+      "icon": "book-plus",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "button-new-wiki",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:a0847609-be65-4fbd-95bc-5a50233dbd01"
+        }
+      ]
+    },
+    {
+      "label": "Create New Operation",
+      "icon": "plus-circle",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "button-new-op",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:1f890d78-5e5c-4cd4-93e9-a78498c54fe3"
+        }
+      ]
+    },
+    {
+      "label": "Open Today's Journal",
+      "icon": "calendar-check",
+      "style": "primary",
+      "id": "button-today-journal",
+      "actions": [
+        {
+          "type": "command",
+          "command": "daily-notes"
+        }
+      ]
+    },
+    {
+      "id": "xcom",
+      "label": "X (Twitter)",
+      "icon": "x",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://x.com/intent/post",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "bsky",
+      "label": "Bluesky",
+      "icon": "cloud",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://bsky.app",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "fb",
+      "label": "Facebook",
+      "icon": "facebook",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.facebook.com",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "mastodon",
+      "label": "Mastodon",
+      "icon": "mastodon",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://mastodon.social",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "insta",
+      "label": "Instagram",
+      "icon": "instagram",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.instagram.com",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "icon": "youtube",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://youtube.com/upload",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "reddit",
+      "label": "Reddit",
+      "icon": "reddit",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.reddit.com/submit",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "quora",
+      "label": "Quora",
+      "icon": "help-circle",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.quora.com",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "thread",
+      "label": "Threads",
+      "icon": "at-sign",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.threads.net",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "substack",
+      "label": "Substack",
+      "icon": "book-open",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://substack.com",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "tumblr",
+      "label": "Tumblr",
+      "icon": "t",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.tumblr.com/new",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "teamblind",
+      "label": "Blind",
+      "icon": "eye-off",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.teamblind.com",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "slashpage",
+      "label": "SlashPage",
+      "icon": "layout",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://slashpage.com",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "id": "devcom",
+      "label": "Dev Community",
+      "icon": "code",
+      "style": "default",
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://dev.to/new",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "label": "Linkedin",
+      "icon": "linkedin",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "linkedin",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "open",
+          "link": "https://www.linkedin.com/feed/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "label": "See your timeline",
+      "icon": "calendar",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "timeline",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "open",
+          "link": "Operations/Tasks/Others/timeline.md",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

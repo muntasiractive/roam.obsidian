@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "0597e930c51f6ffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01c5db76849d8d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f058733260904f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09174e398c546574",
+    "type": "split",
+    "children": [
+      {
+        "id": "156299afbe4ef7be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014293a3b4a1d9b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "410720a682cca182",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bd96265348c701d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.3000183105469
+  },
+  "right": {
+    "id": "2184f60ce5774580",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf150947b397f24d",
+        "type": "tabs",
+        "dimension": 74.63235294117648,
+        "children": [
+          {
+            "id": "bd489ce3f24131c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "fda616f2605e51c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa9b6d6cafb50049",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "85c2f69071e0cf3d",
+        "type": "tabs",
+        "dimension": 25.367647058823525,
+        "children": [
+          {
+            "id": "df9f89fd2fce795c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from home"
+            }
+          },
+          {
+            "id": "4733d012f7127bde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Museum/configs/home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "repeat-plugin:Repeat due notes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "35f058733260904f",
+  "lastOpenFiles": [
+    "Museum/configs/templates/template_wiki.md",
+    "Museum/configs/templates/template_operation.md",
+    "Museum/configs/templates/template_journal_yearly.md",
+    "Museum/configs/templates/template_journal_weekly.md",
+    "Museum/configs/templates/template_journal_quaterly.md",
+    "Museum/configs/templates/template_journal_monthly.md",
+    "Museum/configs/templates/template_journal_daily.md",
+    "Operations/Tasks/Others/quick.md",
+    "Operations/Tasks/Others/timeline.md",
+    "Museum/configs/region.md",
+    "Operations/Tasks/Others/today.md",
+    "Assets/Bases/tasks.base",
+    "Assets/Bases/journal.base",
+    "Assets/Bases/events.base",
+    "Assets/Bases/assets.base",
+    "Museum/configs/home.md",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/components/layout/workspace-shell.tsx",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/out/conferences/icse-dev-2026/reviewer/assignments/105/review/__next.conferences/$d$slug/reviewer/assignments/$d$paperId/review/__PAGE__.txt",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/out/conferences/icse-dev-2026/reviewer/assignments/102/review/__next.conferences/$d$slug/reviewer/assignments/$d$paperId/review/__PAGE__.txt",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/out/conferences/icse-dev-2026/reviewer/assignments/101/review/__next.conferences/$d$slug/reviewer/assignments/$d$paperId/review/__PAGE__.txt",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/out/conferences/icse-dev-2026/reviewer/assignments/105/review/__next.conferences/$d$slug/reviewer/assignments/$d$paperId/review",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/out/conferences/icse-dev-2026/reviewer/assignments/102/review/__next.conferences/$d$slug/reviewer/assignments/$d$paperId/review",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/node_modules/yoga-layout/README.md",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/node_modules/estree-walker/README.md",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/node_modules/estree-walker/CHANGELOG.md",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/node_modules/json-with-bigint/README.md",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/node_modules/chownr/README.md",
+    "Assets/Operational/Daffodil/PaperFlow/repositories/paperflow/main/node_modules/chownr/LICENSE.md",
+    "Reflections/Wikis/wiki_javascript in computer programming.md",
+    "Operations/Tasks/Operational/opr_build_diu_paperriv.md",
+    "Operations/Tasks/Operational/opr_learn_science_deduction.md",
+    "docs/messages/no-duplicate-head.md",
+    "Reflections/Journals/Daily/journal_daily_260901.md",
+    "Operations/Tasks/Operational/opr_prep_google-summer-of-code.md",
+    "Operations/Tasks/Operational/opr_noor_tech_mokaarom.md",
+    "Operations/Tasks/Operational/opr_prep_icpc.md",
+    "Assets/Repositories/portfolio/public/og.png",
+    "Assets/Repositories/portfolio/public/OG Image.png",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/public/assets/landing/Illustrations.svg",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/public/assets/landing/hero-illustration.svg",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/dist/assets/contributors/muntasir.webp",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/dist/assets/contributors/jahid.png",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/dist/assets/robot00.png",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/dist/assets/robot.webp",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/dist/assets/icon.svg",
+    "Assets/Operational/Noor Unified Ventures of Innovation and Complex Organization/Noor Tech/Shonkha/Repositories/shonkha/frontend/dist/assets/full-logo.svg"
+  ]
+}
